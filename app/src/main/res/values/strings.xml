@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Smaklösa Album</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="SmaklosaAlbums">
+        <item>Moonboots på Hemse</item>
+        <item>Mördarsnigel</item>
+        <item>Det regnar kor</item>
+        <item>Desperado</item>
+        <item>Repar i lacken</item>
+
+    </string-array>
+
+    <string name="moonboats">
+        1. Så rivstartas en spelning \n \n
+        2. Moonboots på Hemse \n \n
+        3. Alltihop är rörmokarns fel \n \n
+        4. Gud gjorde Slite med vänster hand \n \n
+        5. Backa med släp \n \n
+        6. Uffa snackar med svärmor \n \n
+        7. Klen \n \n
+        8. Åk hem till Sanda \n \n
+        9. Sedd i en Saab \n  \n
+        10. Helt kriminell \n \n
+        11. De digerdöda \n \n
+        12. Wee wee Highway \n \n
+        13. Magneter \n \n
+        14. Kantorn och nattvardsvinet \n \n
+        15. Böndar \n \n
+        16. Dom har stulit en gris ifrån mig \n \n
+        17. Igelkotten</string>
+
+    <string name="mordarsniglar">
+        1. Det franska köket \n \n
+        2. Mördarsniglar  \n \n
+        3. Krydda lagom - Miljonär \n \n
+        4. Majros \n \n
+        5. Pullfor \n \n
+        6. Sopan \n \n
+        7. Revolution… snart.. \n \n
+        8. Morsan \n \n
+        9. Farsan kan allt \n \n
+        10.Angelika \n \n
+        11. Grillparty \n \n
+        12. Suggring \n \n
+        13. I akvariet \n \n
+        14. Repar i lacken \n \n
+        15. Det är så lätt att leva livet \n \n
+        16. Takt och ton \n \n
+        17. Enduro - Vännen min \n \n
+        18. Slamtömmaren \n \n
+        19. By-pass kirurgen \n \n
+        20. Festbussen \n \n
+        21. Släkt var det här \n \n
+        22. When my blue moon turns to gold again \n \n
+        23. Slutsnacka \n \n
+    </string>
+
+    <string name="kor">
+        1. Häradshövdingen Och Provinsialläkaren 1 \n \n
+        2. Det Regnar Kor \n \n
+        3. Gånglåten \n \n
+        4. Grötlingbodi \n \n
+        5. Häradshövdingen Och Provinsialläkaren 2 \n \n
+        6. Ponnytwist - Tre Hjul Kvar På Min PV \n \n
+        7. Fastighetsmäklaren Under Ytan I Tingstäde \n \n
+        8. Johnny Ko \n \n
+        9. 1 - 3 - 6 - 1 Medeltid \n \n
+        10. Carina, Carina \n \n
+        11. Fotvårdsblues \n \n
+        12. Bilorienteraren \n \n
+        13. Vängebo \n \n
+        14. Häradshövdingen Och Provinsialläkaren 3 \n \n
+        15. Balladen Om Den Blå Baskern \n \n
+        16. Kubblåten \n \n
+        17. Kongresshallen \n \n
+        18. Brandvarnare \n \n
+        19. Valdemar \n \n
+        22. Fröken Röken \n \n
+        23. Gummiormen \n \n
+    </string>
+
+    <string name="desperado">
+
+        1. Marteboljuset \n \n
+        2. Introprat \n \n
+        3. Marteboljuset \n \n
+        4. Lammlåten \n \n
+        4. NT \n \n
+        5. Introprat \n \n
+        6. Gotlandslinjen \n \n
+        7. Dalhems Desperado \n \n
+        8. Sockeplast \n \n
+    </string>
+
+    <string name="repar">
+        1. Bm-Traktortider \n \n
+        2. K E Janssons Express \n \n
+        3. Min Amazon \n \n
+        4. Här Brinner Det? \n \n
+        5. Jag Har Aldrig Blivit Kysst \n \n
+        6. Svensktoppssjoket \n \n
+        7. T Larsson \n \n
+        8. När Vi Rör Varann \n \n
+        9. Växtfärgningssällskapet \n \n
+        10. Strange \n \n
+        11. Vibble By The Sea \n \n
+        12. Man Bör Veta Hur Man Ska Säga Nej \n \n
+        13. Vem Kan Plöja \n \n
+        14. Gotlands Cykelradio \n \n
+        15. Boge-Benny \n \n
+        16. Vibbledårar \n \n
+    </string>
+</resources>
